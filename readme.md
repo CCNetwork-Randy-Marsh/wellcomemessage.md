@@ -1,2 +1,1 @@
-Welcome {member.mention} to {guild.name}! He used {invite.code} to join the server (invite created by {invite.inviter.name})
-Welcome {member.mention} to {guild.name}! He used {invite.code} to join the server (invite created by {invite.inviter.name})
+![https://cf.way2muchnoise.eu/full_609702_downloads.svg](https://cf.way2muchnoise.eu/full_609702_downloads.svg)
